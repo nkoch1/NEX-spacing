@@ -1,7 +1,6 @@
 
 *.ini
 .ipynb_checkpoints/
-/NEX Spacing.ipynb
 __pycache__/
 *~
 /Testdata.csv-adjusted.csv
