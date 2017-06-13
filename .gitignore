@@ -1,2 +1,6 @@
 
 *.ini
+.ipynb_checkpoints/
+__pycache__/
+*~
+/Testdata.csv-adjusted.csv
